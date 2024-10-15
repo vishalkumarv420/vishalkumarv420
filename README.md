@@ -22,6 +22,14 @@
 
 ---
 
+### 🏅 Certifications
+
+- **ADCA** (Advanced Diploma in Computer Application)
+- **BS-CFA** (Bihar State-Certificate in Financial Accounting)
+- **KYP** (Kushal Yuva Program)
+
+---
+
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/vishalkumarv420" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" /></a>
@@ -67,8 +75,8 @@
 ---
 
 ### 🎯 Projects I'm Proud Of
-1. **Project Name 1**: Description, tech stack used (link to project)
-2. **Project Name 2**: Description, tech stack used (link to project)
+1. **Project Name 1**: Description, tech stack used ([link to project](#))
+2. **Project Name 2**: Description, tech stack used ([link to project](#))
 
 ---
 
