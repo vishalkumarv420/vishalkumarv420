@@ -30,6 +30,13 @@
 
 ---
 
+### 🎓 Education
+
+- **Junior Engineering** in Computer Science and Engineering  
+  State Board of Technical Education, Bihar (Currently Studying)
+
+---
+
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/vishalkumarv420" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" /></a>
@@ -67,16 +74,15 @@
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏆 Achievements
 - ✔️ Completed **Full Stack Developer Course**
 - ✔️ **JavaScript Algorithms and Data Structures** Certification
-- ✔️ Open Source Contributor at [XYZ Project]
 
 ---
 
 ### 🎯 Projects I'm Proud Of
-1. **Project Name 1**: Description, tech stack used ([link to project](#))
-2. **Project Name 2**: Description, tech stack used ([link to project](#))
+1. **Project Name 1**: Description, tech stack used ([link to project](https://codewithrunner.site/assets/View%20Project/Project.html))
+2. **Project Name 2**: Description, tech stack used ([link to project](https://codewithrunner.site/assets/View%20Project/Project2.html))
 
 ---
 
