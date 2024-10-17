@@ -93,7 +93,7 @@
 
 ---
 
-### 📚 Blog Posts (if any)
+### 📚 Blog Posts
 - [Post Title 1](https://codewithrunner.site/assets/Read%20More/Read_1.html)
 - [Post Title 2](https://codewithrunner.site/assets/Read%20More/Read_2.html)
 
